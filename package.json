@@ -1,0 +1,22 @@
+{
+  "name": "express-crud-sequelize",
+  "version": "1.11.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "exp-gen": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "options"
+  ],
+  "author": "@chicken.alesha",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^8.3.0",
+    "fs": "^0.0.1-security"
+  }
+}
