@@ -1,7 +1,7 @@
 # expgen
 expgen is cli for generate, mvc model like controller, migration, view, model, router, its simple
  
-install with npm i express-sequelize-crud
+install with npm i express-crud-sequelize
 
 then you can use it by command, exp-gen -i
 
